@@ -49,4 +49,4 @@ This notebook serves both as a learning tool and as an assessment submission. It
 - Outputs are cleared by default; rerun the notebook to generate results.
 
 ## Contact
-sitnminimnadi@gmail.com
+mail me : suveendradesilva@gmail.com
